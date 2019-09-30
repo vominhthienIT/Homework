@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="thucdon">
+        <item>Nước Mía</item>
+        <item>Trà Chanh</item>
+        <item>Trà Sữa</item>
+        <item>Sinh Tố</item>
+    </string-array>
+</resources>
